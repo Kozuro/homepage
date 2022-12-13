@@ -1,0 +1,68 @@
+html {
+    box-sizing: border-box;
+}
+
+*, ::after ::before {
+    box-sizing: inherit;
+}
+
+.body {
+    max-width: 1000px;
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+    background-color: #a5a5a5;
+    margin: 0 auto;
+}
+
+.header {
+    width: 700px;
+    margin: auto;
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.footer {
+    font-weight: bold;
+    text-align: center;
+    font-size: 12px;
+    width: 700px;
+    margin: 20px auto;
+}
+
+.importantText {
+    color: #047009;
+}
+
+.main {
+    width: 700px;
+    margin: auto;
+}
+
+.box {
+    box-shadow: 0px 0px 17px 2px #182B44;
+    background-color: #d1d2d3d2;
+    text-shadow: 1px 2px 5px #6b6a6a;
+}
+
+.image {
+    padding-left: 60px;
+    padding-bottom: 30px;
+    width: 250px;
+}
+
+.light {
+    background-color: #fff;
+}
+
+.button {
+    display: block;
+    margin-left: auto;
+    margin-right: 5px;
+    padding: 6px;
+    font-weight: bold;
+}
+
+.scrollableContainer {
+    overflow-x: auto;
+}

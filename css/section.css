@@ -1,0 +1,23 @@
+.section__header {
+    font-size: 30px;
+    text-align: center;
+    width: 100%;
+}
+
+.section__paragraph {
+    margin: auto;
+    font-size: 20px;
+    text-align: center;
+    line-height: 1.5;
+    width: 650px;
+}
+
+.section__paragraph--unorderedList {
+    font-weight: bold;
+    font-size: 17px;
+    margin-left: 10px;
+}
+
+.section__paragraph--solid {
+    color: #047009;
+}
