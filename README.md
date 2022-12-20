@@ -1,9 +1,9 @@
-# homepage
+# Homepage
 
-## demo
+## Demo
 
 https://kozuro.github.io/homepage/
 
-## opis
+## Description
 
-Prosta strona o zespole HIM z użyciem podstaw css oraz java script. Mogą pojawiać się drobne poprawki.
+A simple page about band HIM using the basics of css and java script. There may be minor adjustments. 
